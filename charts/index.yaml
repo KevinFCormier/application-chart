@@ -2,14 +2,25 @@ apiVersion: v1
 entries:
   application-chart:
   - apiVersion: v1
-    appVersion: 2.1.0
-    created: "2021-04-08T15:03:08.606738-04:00"
+    appVersion: 2.2.0
+    created: "2021-04-08T16:53:36.265484-04:00"
     description: Helm chart for Open Cluster Management application UI
-    digest: ef983514c2c1d4f9e58888c10f3fe9d4042f6cc4e5161cf05ce25dac40277ffb
+    digest: a54e33ca8789b1995a9fc5a9f1c2b0004427d139c29ed7a3caf16256f54e2880
+    keywords:
+    - ui
+    name: application-chart
+    urls:
+    - https://kevinfcormier.github.io/application-chart/charts/application-chart-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v1
+    appVersion: 2.1.0
+    created: "2021-04-08T16:53:36.26489-04:00"
+    description: Helm chart for Open Cluster Management application UI
+    digest: 73bf54dbefb5a15b1304aef4cbd8f31daafcede3e0995070c7fcfecd83fbc914
     keywords:
     - ui
     name: application-chart
     urls:
     - https://kevinfcormier.github.io/application-chart/charts/application-chart-2.1.0.tgz
     version: 2.1.0
-generated: "2021-04-08T15:03:08.605894-04:00"
+generated: "2021-04-08T16:53:36.264155-04:00"
